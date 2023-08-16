@@ -17,3 +17,5 @@ Important Tools for the CPENT Exam :
 15.gobuster or dirbuster
 16.sqlmap
 17.wpscan
+
+
