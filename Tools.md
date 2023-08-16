@@ -1,6 +1,6 @@
 Important Tools for the CPENT Exam :
 
-**1. nmap
+1. nmap
 2. hydra
 3. linpeas
 4. impacket-atexec
@@ -16,4 +16,4 @@ Important Tools for the CPENT Exam :
 14.pwntools
 15.gobuster or dirbuster
 16.sqlmap
-17.wpscan**
+17.wpscan
