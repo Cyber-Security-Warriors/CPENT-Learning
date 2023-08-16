@@ -9,13 +9,13 @@ Important Tools for the CPENT Exam :
 7. gdb
 8. wireshark
 9. tcpdump
-10.Proxychain
-11.smbclient
-12.nbtstat
-13.crackmapexec
-14.pwntools
-15.gobuster or dirbuster
-16.sqlmap
-17.wpscan
+10. Proxychain
+11. smbclient
+12. nbtstat
+13. crackmapexec
+14. pwntools
+15. gobuster or dirbuster
+16. sqlmap
+17. wpscan
 
 
