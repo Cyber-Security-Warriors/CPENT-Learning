@@ -1,6 +1,6 @@
 Practice below tryhackme labs to work on pivoting & know vulnerability Labs :
 
-1. [Wreath](https://tryhackme.com/room/wreath)
+1. [Wreath](https://tryhackme.com/room/wreath) (**Most Important**)
 2. [Shells](https://tryhackme.com/room/introtoshells)
 3. [Blog](https://tryhackme.com/room/blog)
 4. [Dirty Pipe](https://tryhackme.com/room/dirtypipe) ( **You may get vulnerability related to shellshock or dirty cow.** )
